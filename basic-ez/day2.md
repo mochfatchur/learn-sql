@@ -23,4 +23,4 @@
     FROM Sales s
     INNER JOIN Product p ON s.product_id = p.product_id;
     ```
-- exp: the keyword why we use INNER JOIN is "<br>for each</br> sale_id in the Sales table"
+- exp: the keyword why we use INNER JOIN is "for each sale_id in the Sales table"
