@@ -21,4 +21,4 @@
     ```sql
     st.student_id, st.student_name
     ```
-    we group by only that because we want for there is that is not be grouped is being counted, when we use __COUNT__
+    we group by only that because we want the rest that is not to be grouped will be counted when we use __COUNT__
